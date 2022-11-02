@@ -3,6 +3,9 @@
 Hi, I am Robbert de Groot, @Zekaric.  I am predominantly a C developer and love that language.  I also do C++ and C# at my day job but I have always
 loved the simplicity of C and that is what I use in my hobby programming.
 
+I have been programming professionally since 1995.  I am getting close to becoming that grumpy old programmer.  I try to remain civil though so feel
+free to contact me.  I, probably, will be nice.  If I am not, it is most likely that I am in a mood because I am working on a stubborn bug.
+
 # Why C? 
 
 When I was in High School we were still using MS DOS as the main operating system.  My school allowed me to learn my first system language using 
