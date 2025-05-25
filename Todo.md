@@ -2,20 +2,22 @@
 
 | Status        | Project   | Effort    | Task  |
 | ---           | ---       | ---       | ---   |
+| **Current**   |           |           | |
+| /             | GWin      | x         | Set up a project displaying a single window in SDL. |
+| -             | GWin      | x         | Create window |
+| -             | GWin      | x         | Create window list |
+|               |           |           | |
 | **On going**  |           |           | |
 |               | lrn       | xxx       | learn to fly books. |
 |               | lrn       | xxx       | learn Mandarin. |
-| **Current**   |           |           | |
-| /             | GWIN      | xxxxx     | Create lib project and start it |
-| -             | GWIN      | xxxxx     | Create test project and start it |
-| -             | GWIN      | xxxxx     | Create window |
-| -             | GWIN      | xxxxx     | Create window list |
+|               |           |           | |
 | **H**         |           |           | |
 | -             | GWIN      | xxxxx     | Create project and start it |
 | -             | GameTyl   | xxxxx     | Create project and start it, depends on GWIN |
 | /             | AlexBook1 | xxxxx     | rewrite chapters that are in the first person |
 | -             | AlexBook1 | xxxxx     | rewrite chapters that more scene building |
 | -             | ZCommon   | xxx       | Font |
+|               |           |           | |
 | **M**         |           |           | |
 | /             | MIMIFF    | xxx       | write out item properties |
 | -             | MIMIFF    | xxx       | write out geometry list |
@@ -37,6 +39,7 @@
 | -             | GUIDE     | x         | start project |
 | -             | GameTyl   | xxxx      | ai |
 | -             | GameTyl   | xxx       | sounds |
+|               |           |           | |
 | **L**         |           |           | |
 | -             | ZMuse     | x         | hot keys |
 | -             | ZMuse     | x         | add playlist sort and reverse buttons |
