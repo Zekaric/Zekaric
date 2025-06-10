@@ -3,16 +3,14 @@
 | Status        | Project   | Effort    | Task  |
 | ---           | ---       | ---       | ---   |
 | **Current**   |           |           | |
-| /             | GWin      | x         | Set up a project displaying a single window in SDL. |
-| -             | GWin      | x         | Create window |
-| -             | GWin      | x         | Create window list |
+| /             | GWin      | xxx       | Create base window item. |
+| /             | GWin      | xx        | Create item list in the window. |
 |               |           |           | |
 | **On going**  |           |           | |
 |               | lrn       | xxx       | learn to fly books. |
 |               | lrn       | xxx       | learn Mandarin. |
 |               |           |           | |
 | **H**         |           |           | |
-| -             | GWIN      | xxxxx     | Create project and start it |
 | -             | GameTyl   | xxxxx     | Create project and start it, depends on GWIN |
 | /             | AlexBook1 | xxxxx     | rewrite chapters that are in the first person |
 | -             | AlexBook1 | xxxxx     | rewrite chapters that more scene building |
