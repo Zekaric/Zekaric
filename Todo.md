@@ -3,8 +3,7 @@
 | Status        | Project   | Effort    | Task  |
 | ---           | ---       | ---       | ---   |
 | **Current**   |           |           | |
-| /             | GWin      | xxx       | Create base window item. |
-| /             | GWin      | xx        | Create item list in the window. |
+| /             | GWin      | xxx       | Draw a textured quad for a window item. |
 |               |           |           | |
 | **On going**  |           |           | |
 |               | lrn       | xxx       | learn to fly books. |
