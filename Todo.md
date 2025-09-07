@@ -3,7 +3,9 @@
 | Status        | Project   | Effort    | Task  |
 | ---           | ---       | ---       | ---   |
 | **Current**   |           |           | |
-| /             | GWin      | xxx       | Draw a textured quad for a window item. |
+| /             | Gwin      | xxx       | Draw a textured quad for a window item. |
+| /             | Gimg      | xx        | Add basic functions for 8bit RGB, RGBA, K, and KA needed for GameTyl |
+| -             | Gimgio    | xxx       | Revisit library with Gimg in mind.  Update ZLIB, PNG, JPG, etc. At minimum PNG only.|
 |               |           |           | |
 | **On going**  |           |           | |
 |               | lrn       | xxx       | learn to fly books. |
