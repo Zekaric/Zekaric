@@ -4,13 +4,13 @@ Hi, I am Robbert de Groot, @Zekaric.  I am predominantly a C developer and love 
 loved the simplicity of C and that is what I use in my hobby programming.
 
 I have been programming professionally since 1995.  I am getting close to becoming that grumpy old programmer.  I try to remain civil though so feel
-free to contact me.  I, probably, will be nice.  If I am not, it is most likely that I am in a mood because I am working on a stubborn bug.
+free to contact me.  I, probably, will be nice.  If I am not, it is most likely that I am in a mood because I am working on something annoying.
 
 # Why C? 
 
 When I was in High School we were still using MS DOS as the main operating system.  My school allowed me to learn my first system language using 
 Borland Turbo C 2.0 if I remember correctly.  There wasn't C++ yet as far as I remember or it was very, very immature.  At any rate I fell in love
-with the language back then.  It was fast, simple, and infuriating.  Although infuriation I felt was probably more toward the state of the OS and 
+with the language back then.  It was fast, simple, and infuriating.  Although the infuriation I felt was probably more toward the state of the OS and 
 the hoops you had to jump through to do what you want.  Also, the internet was not that great and there were struggles as I didn't know anyone who
 could mentor me.  But I perserveered.
 
@@ -21,8 +21,8 @@ Contrary to what people say, C is perfectly fine for large programs.  You do not
 It just may need some extra typing.  In general my C++ code is very much C code with object oriented features instead of the madness some C++ coders
 go through to make the perfect OO C++ program.  Often I find some C++ programmers are too purist in their thinking that the code they write is, 
 admittedly very clever and in a way beautiful but not necessarily for the next poor guy that comes in and is required to fix something.  C can be 
-equally nasty if you program sloppily but I find it is much easier to get the bigger picture in a C program than a C++ program.  But that could be
-just me.
+equally nasty if you program poorly but I find it is much easier to get the bigger picture in a C program than a C++ program.  But that could be
+just me.  I'm also finding C is easier to refactor when things get complicated.
 
 So, C is my language of choice.
 
@@ -31,11 +31,13 @@ So, C is my language of choice.
 LEGO!  Yeah, I am AFOL (Adult Fan Of Lego.)  My wife wants me to keep it under control though...  I may have a problem.  
 
 I like drawing, mainly pen and ink.  It is easy to do because you can do that anywhere and it does not matter so much if you are colour blind, which
-I am a bit.  I used to like to paint with physical media but that's messing and requires space.  Digital now a days.
+I am a bit.  I used to like to paint with physical media but that's messy and requires space.  I am trying to paint digitally now a days.
 
 Programming of course.  Games and desktop apps.  I have not really jumped into the mobile or web development much.  Both of those areas have not 
 settled down yet and I find them frustrating as it feels like the developers in both mobile and web have ADHD or something as they keep jumping from
-idea to idea while nothing really remains constant or stable.
+idea to idea while nothing really remains constant or stable.  I also feel like they have never learnt the best practices from those who have done
+desktop apps for most of their life.  There are a lot of issues I feel with both web and mobile apps that I should not get into here because that
+would make this readme way too long.
 
 # How to reach me?
 
