@@ -45,6 +45,8 @@ LinkedIn: https://www.linkedin.com/in/zekaric/
 
 Web Site: https://www.zekaric.com/
 
+E-mail: zekaric@gmail....
+
 <!---
 Zekaric/Zekaric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
